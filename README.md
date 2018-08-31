@@ -23,4 +23,4 @@ Gameplay videos can be found in the following links:
 ##### Sonic
 
 
-Implementacion del clasico juego "Sonic" con multijugador mediante cliente/servidor.
+Implementacion orientada a objetos del clasico juego "Sonic" con multijugador mediante cliente/servidor.
